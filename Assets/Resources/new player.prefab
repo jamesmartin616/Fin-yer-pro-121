@@ -390,7 +390,6 @@ SkinnedMeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 3
-  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1596,7 +1595,6 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 6971420320753847442}
-        m_TargetAssemblyTypeName: 
         m_MethodName: UpdateHeadTrack
         m_Mode: 0
         m_Arguments:
@@ -2046,7 +2044,6 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 6971420320753847440}
-          m_TargetAssemblyTypeName: 
           m_MethodName: SetLeftWeapon
           m_Mode: 0
           m_Arguments:
@@ -2066,7 +2063,6 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 6971420320753847440}
-          m_TargetAssemblyTypeName: 
           m_MethodName: SetRightWeapon
           m_Mode: 0
           m_Arguments:
