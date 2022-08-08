@@ -5659,8 +5659,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnPosition: {fileID: 911691909}
   players:
-  - {fileID: 1909269991378237652, guid: af445dde8274c9846ace25778a6f60ae, type: 3}
-  - {fileID: 1909269991378237652, guid: af445dde8274c9846ace25778a6f60ae, type: 3}
+  - {fileID: 6971420320753847433, guid: 4a5782f407a25fb47992b7cfe4bc8f25, type: 3}
+  - {fileID: 4603659616816297237, guid: 7ff8e3a11071c7c4fa9f22ba7d91cad0, type: 3}
 --- !u!114 &1488049666
 MonoBehaviour:
   m_ObjectHideFlags: 0
