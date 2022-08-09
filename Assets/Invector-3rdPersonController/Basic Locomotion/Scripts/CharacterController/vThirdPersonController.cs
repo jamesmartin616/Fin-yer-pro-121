@@ -28,8 +28,8 @@ namespace Invector.vCharacterController
             if (instance == null)
             {
                 instance = this;
-                //DontDestroyOnLoad(this.gameObject);
-               // this.gameObject.name = gameObject.name + " Instance";
+               // DontDestroyOnLoad(this.gameObject);
+                this.gameObject.name = gameObject.name + " Instance";
             }
             else
             {
